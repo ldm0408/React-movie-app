@@ -11,3 +11,9 @@
  1. array와 map 메소드로 리스트 데이터 구성 및 출력 실습
  2. prop의 key에 대한 간략 설명
  3. prop의 유효성 검사 -  prop types 설명 및 실습
+
+ ## 3일차
+1. 라이프싸이클 설명 - 컴포넌트 렌더시 props 업데이트시 실행되는 기능 순서 간략 설명
+2. state 간략 설명
+3. state update 설명 및 this.setState 실습
+4. Loading state 설명 및 실습
