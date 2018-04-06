@@ -17,3 +17,9 @@
 2. state 간략 설명
 3. state update 설명 및 this.setState 실습
 4. Loading state 설명 및 실습
+
+## 4일차
+1. smart component, dumb component 설명 및 실습
+2. 리액트에서 Ajax 사용하기 실습 - 영화 리스트 api 이용
+3. Promise 간략 설명 및 실습
+4. async, await 간략 설명 및 실습
