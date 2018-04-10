@@ -23,3 +23,9 @@
 2. 리액트에서 Ajax 사용하기 실습 - 영화 리스트 api 이용
 3. Promise 간략 설명 및 실습
 4. async, await 간략 설명 및 실습
+
+## 5일차
+1. 데이터에 따른 컴포넌트 업데이트 - 기존 타이틀, 포스터에 장르, 시놉시스 추가
+2. HTML태그 작성 및 기존 태그 수정
+3. css 작성
+4. build 및 github를 통한 deploy - "https://ldm0408.github.io/React-movie-app/"
